@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsSuryanshu
-- 🙋‍♂️ I'm 18 years old
+- 🙋‍♂️ I'm 20 years old
 - 👀 I’m a Graphic Designer and Programmer
-- 🌱 I’m currently learning Full Stack Web Development, C#, and Python
+- 🌱 I’m currently learning Full Stack Web Development, Artificial Intelligence 
 - 📫 How to reach me: 1singhsuryanshu@gmail.com
 
 <!---
